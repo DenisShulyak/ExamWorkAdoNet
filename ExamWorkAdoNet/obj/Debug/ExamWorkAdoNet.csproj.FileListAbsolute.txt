@@ -1,0 +1,12 @@
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\bin\Debug\ExamWorkAdoNet.exe.config
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\bin\Debug\ExamWorkAdoNet.exe
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\bin\Debug\ExamWorkAdoNet.pdb
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\bin\Debug\Dapper.dll
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\bin\Debug\dbup-core.dll
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\bin\Debug\dbup-sqlserver.dll
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\bin\Debug\Dapper.xml
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\obj\Debug\ExamWorkAdoNet.csprojAssemblyReference.cache
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\obj\Debug\ExamWorkAdoNet.csproj.CoreCompileInputs.cache
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\obj\Debug\ExamWorkAdoNet.csproj.CopyComplete
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\obj\Debug\ExamWorkAdoNet.exe
+C:\Users\ШулякД\source\repos\ExamWorkAdoNet\ExamWorkAdoNet\obj\Debug\ExamWorkAdoNet.pdb
